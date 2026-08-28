@@ -1,0 +1,122 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "173752676598a82a21": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1737464434020c9c81": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "newsletter_xdbQhr": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_KPQqx7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_NkXKGT": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
+          }
+        },
+        "email_form_HthNLb": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_KPQqx7",
+        "paragraph_NkXKGT",
+        "email_form_HthNLb"
+      ],
+      "settings": {
+        "color_scheme": "scheme-9a35a5b8-8278-47f0-b65f-bf7d09757271",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "link_list_kDjadk": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "link_list_bmbyKV": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Fashion & Dresses",
+            "menu": "footer-menu-2"
+          }
+        },
+        "link_list_W33L3P": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Home Appliances",
+            "menu": "footer-menu-1"
+          }
+        },
+        "link_list_nANCfp": {
+          "type": "link_list",
+          "disabled": true,
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "link_list_kDjadk",
+        "link_list_bmbyKV",
+        "link_list_W33L3P",
+        "link_list_nANCfp"
+      ],
+      "settings": {
+        "color_scheme": "scheme-5",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": true,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "173752676598a82a21",
+    "1737464434020c9c81",
+    "newsletter_xdbQhr",
+    "footer"
+  ]
+}
