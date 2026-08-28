@@ -1,0 +1,319 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_LDqrc8": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_RpFHqm": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_jeh1l0jeh1l0jeh1.png",
+            "heading": "Fashion & Dresses",
+            "heading_size": "h2",
+            "subheading": "Step into style with our curated collection of trendy fashion and elegant dresses for every occasion.",
+            "button_label": "Shop Now",
+            "link": "shopify://collections/fashion-dresses",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 20,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_PEWbdw": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_6fz2m86fz2m86fz2.png",
+            "heading": "Home Appliances",
+            "heading_size": "h2",
+            "subheading": "Unleash the Power of Convenience – Discover Appliances That Work as Hard as You Do!",
+            "button_label": "Shop Now",
+            "link": "shopify://collections/home-appliances",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_RpFHqm",
+        "slide_PEWbdw"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 3,
+        "image_behavior": "ambient",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "multicolumn_BCymwH": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_wAWUpi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/fashionable-man-in-hat.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Men",
+            "link": "shopify://collections/men"
+          }
+        },
+        "column_Gty6KX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/long-blonde-hair-at-carnival.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Women",
+            "link": "shopify://collections/women"
+          }
+        },
+        "column_8JfY9H": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/family-feet_a6883b07-31d2-468b-be6f-d426cf9fd27a.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Kids",
+            "link": "shopify://collections/kids"
+          }
+        },
+        "column_yJgMYr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/photo-of-a-desk-and-white-corner-seating-area.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Furnitures",
+            "link": "shopify://collections/furnitures"
+          }
+        },
+        "column_CGCjPY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/a-clean-desk-setup-for-success.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Electronics",
+            "link": "shopify://collections/electronics"
+          }
+        }
+      },
+      "block_order": [
+        "column_wAWUpi",
+        "column_Gty6KX",
+        "column_8JfY9H",
+        "column_yJgMYr",
+        "column_CGCjPY"
+      ],
+      "settings": {
+        "title": "Shop Collections",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-9a35a5b8-8278-47f0-b65f-bf7d09757271",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "BEST SELLING",
+        "heading_size": "h1",
+        "description": "<p>Explore our top-rated items, known for their quality and customer satisfaction. Join the trendsetters today.</p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "bulk",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_QqdQb7": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_b6CfLR": {
+          "type": "heading",
+          "settings": {
+            "heading": "Fashion & Dresses",
+            "heading_size": "h0"
+          }
+        },
+        "buttons_mAD3NH": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify://collections/fashion-dresses",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_b6CfLR",
+        "buttons_mAD3NH"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/bridal-fashion-on-beach_1.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-5",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "featured_collection_x6WKCy": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured Products",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "fashion-dresses",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Home Appliances",
+            "heading_size": "h0"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify://collections/home-appliances",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/photo-of-a-desk-and-white-corner-seating-area.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "featured_collection_t33Vy9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Top Selling",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "home-appliances",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow_LDqrc8",
+    "multicolumn_BCymwH",
+    "featured_collection",
+    "image_banner_QqdQb7",
+    "featured_collection_x6WKCy",
+    "image_banner",
+    "featured_collection_t33Vy9"
+  ]
+}

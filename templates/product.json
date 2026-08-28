@@ -1,0 +1,227 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-9a35a5b8-8278-47f0-b65f-bf7d09757271",
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "featured_collection_CBANaw": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Top Products",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "top-selling",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-9a35a5b8-8278-47f0-b65f-bf7d09757271",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_icqRLd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3FFnrF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/fashionable-man-in-hat.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Men",
+            "link": "shopify://collections/men"
+          }
+        },
+        "column_KMGR66": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/long-blonde-hair-at-carnival.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Women",
+            "link": "shopify://collections/women"
+          }
+        },
+        "column_LfFWfy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/family-feet.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Kids",
+            "link": "shopify://collections/kids"
+          }
+        },
+        "column_WAd76p": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/doorway-view-of-a-living-room.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Furnitures",
+            "link": "shopify://collections/furnitures"
+          }
+        },
+        "column_XQhBa6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/a-clean-desk-setup-for-success.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Electronics",
+            "link": "shopify://collections/electronics"
+          }
+        },
+        "column_KA4aw8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_6fz2m86fz2m86fz2.png",
+            "title": "",
+            "text": "",
+            "link_label": "Appliances",
+            "link": "shopify://collections/appliances"
+          }
+        }
+      },
+      "block_order": [
+        "column_3FFnrF",
+        "column_KMGR66",
+        "column_LfFWfy",
+        "column_WAd76p",
+        "column_XQhBa6",
+        "column_KA4aw8"
+      ],
+      "settings": {
+        "title": "Shop Collections",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "View all collections",
+        "button_link": "shopify://collections",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "related-products",
+    "featured_collection_CBANaw",
+    "multicolumn_icqRLd"
+  ]
+}
