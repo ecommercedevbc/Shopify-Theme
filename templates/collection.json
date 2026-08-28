@@ -1,0 +1,164 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 20,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "bulk",
+        "enable_filtering": true,
+        "filter_type": "vertical",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_dptEyw": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Top Products",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "top-selling",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-9a35a5b8-8278-47f0-b65f-bf7d09757271",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_e8mfB7": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_HieCPJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/fashionable-man-in-hat.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Men",
+            "link": "shopify://collections/men"
+          }
+        },
+        "column_ULymCw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/long-blonde-hair-at-carnival.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Women",
+            "link": "shopify://collections/women"
+          }
+        },
+        "column_XaLJbc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/family-feet.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Kids",
+            "link": "shopify://collections/kids"
+          }
+        },
+        "column_L4ipQk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/doorway-view-of-a-living-room.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Furnitures",
+            "link": "shopify://collections/furnitures"
+          }
+        },
+        "column_k7BJj3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/a-clean-desk-setup-for-success.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Electronics",
+            "link": "shopify://collections/electronics"
+          }
+        },
+        "column_B46zfE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_6fz2m86fz2m86fz2.png",
+            "title": "",
+            "text": "",
+            "link_label": "Appliances",
+            "link": "shopify://collections/appliances"
+          }
+        }
+      },
+      "block_order": [
+        "column_HieCPJ",
+        "column_ULymCw",
+        "column_XaLJbc",
+        "column_L4ipQk",
+        "column_k7BJj3",
+        "column_B46zfE"
+      ],
+      "settings": {
+        "title": "Shop Collections",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "View all collections",
+        "button_link": "shopify://collections",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "featured_collection_dptEyw",
+    "multicolumn_e8mfB7"
+  ]
+}
